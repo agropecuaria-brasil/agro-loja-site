@@ -10,7 +10,7 @@ import { createClient } from '@sanity/client';
 // 4. Copie o "Project ID" e cole abaixo.
 
 const SANITY_CONFIG = {
-    projectId: 'k5v8q9x2', // <--- COLE SEU ID REAL AQUI. (Valor temporário válido para evitar erro de crash)
+    projectId: '2a6px1mz', // <--- COLE SEU ID REAL AQUI. (Valor temporário válido para evitar erro de crash)
     dataset: 'production',
     useCdn: true, // true para site rápido (cache), false para dados sempre frescos
     apiVersion: '2023-05-03', 
